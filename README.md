@@ -1,4 +1,4 @@
-# Building Fair AI models tutorial at PyData New York, 2018
+# AIF360 Tutorial, PyData Berlin 2018
 
 
 ### This tutorial uses an open source Python package named [AI Fairness 360 or AIF360](https://github.com/ibm/aif360). 
@@ -14,7 +14,7 @@
 Create and activate environment
 
 ```bash
-conda create --name aif360 python=3.5
+conda create --name aif360 python=3.6
 conda activate aif360
 ```
 
